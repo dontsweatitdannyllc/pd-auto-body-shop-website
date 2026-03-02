@@ -1,0 +1,20 @@
+{
+  "business": {
+    "name": "P & D Auto Body Shop",
+    "address": "825 N Hollywood Way, Burbank, CA 91505, USA",
+    "phone": "(818) 843-6085",
+    "website": "",
+    "rating": 3,
+    "reviewsCount": 2,
+    "city": "Burbank"
+  },
+  "copy": {
+    "heroHeadline": "P & D Auto Body Shop",
+    "heroSubhead": "Trusted auto body repair and paint in Burbank.",
+    "ctaPrimary": "Get a Free Estimate",
+    "ctaSecondary": "Call Now"
+  },
+  "services": [],
+  "notes": null,
+  "colors": null
+}
